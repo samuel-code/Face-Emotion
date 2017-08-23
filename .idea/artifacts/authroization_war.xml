@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="authroization:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="authroization.war">
+      <element id="artifact" artifact-name="authroization:war exploded" />
+    </root>
+  </artifact>
+</component>
